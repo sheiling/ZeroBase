@@ -1,0 +1,75 @@
+F:\XCore\XCore\bin\Debug\XXTBase.dll
+F:\XCore\XCore\bin\Debug\XXTBase.pdb
+F:\XCore\XCore\obj\Debug\XXTBase.csprojResolveAssemblyReference.cache
+F:\XCore\XCore\obj\Debug\XXTBase.Properties.Resources.resources
+F:\XCore\XCore\obj\Debug\XXTBase.XAxisControlPanel.resources
+F:\XCore\XCore\obj\Debug\XXTBase.XAxisStatusTable.resources
+F:\XCore\XCore\obj\Debug\XXTBase.XCardDoTable.resources
+F:\XCore\XCore\obj\Debug\XXTBase.XDiTable.resources
+F:\XCore\XCore\obj\Debug\XXTBase.XDoTable.resources
+F:\XCore\XCore\obj\Debug\XXTBase.XTaskStepBar.resources
+F:\XCore\XCore\obj\Debug\XXTBase.XStationStateBar.resources
+F:\XCore\XCore\obj\Debug\XXTBase.XPositionTable.resources
+F:\XCore\XCore\obj\Debug\XXTBase.XTimeoutTip.resources
+F:\XCore\XCore\obj\Debug\XXTBase.XTipDlg.resources
+F:\XCore\XCore\obj\Debug\XXTBase.XSettingGrid.resources
+F:\XCore\XCore\obj\Debug\XXTBase.XCardDiTable.resources
+F:\XCore\XCore\obj\Debug\XXTBase.csproj.GenerateResource.Cache
+F:\XCore\XCore\obj\Debug\XXTBase.dll
+F:\XCore\XCore\obj\Debug\XXTBase.pdb
+F:\XXTBase\XXTBase\bin\Debug\XXTBase.dll
+F:\XXTBase\XXTBase\bin\Debug\XXTBase.pdb
+F:\XXTBase\XXTBase\obj\Debug\XXTBase.Properties.Resources.resources
+F:\XXTBase\XXTBase\obj\Debug\XXTBase.XAxisControlPanel.resources
+F:\XXTBase\XXTBase\obj\Debug\XXTBase.XAxisStatusTable.resources
+F:\XXTBase\XXTBase\obj\Debug\XXTBase.XCardDoTable.resources
+F:\XXTBase\XXTBase\obj\Debug\XXTBase.XDiTable.resources
+F:\XXTBase\XXTBase\obj\Debug\XXTBase.XDoTable.resources
+F:\XXTBase\XXTBase\obj\Debug\XXTBase.XTaskStepBar.resources
+F:\XXTBase\XXTBase\obj\Debug\XXTBase.XStationStateBar.resources
+F:\XXTBase\XXTBase\obj\Debug\XXTBase.XPositionTable.resources
+F:\XXTBase\XXTBase\obj\Debug\XXTBase.XTimeoutTip.resources
+F:\XXTBase\XXTBase\obj\Debug\XXTBase.XTipDlg.resources
+F:\XXTBase\XXTBase\obj\Debug\XXTBase.XSettingGrid.resources
+F:\XXTBase\XXTBase\obj\Debug\XXTBase.XCardDiTable.resources
+F:\XXTBase\XXTBase\obj\Debug\XXTBase.csproj.GenerateResource.Cache
+F:\XXTBase\XXTBase\obj\Debug\XXTBase.dll
+F:\XXTBase\XXTBase\obj\Debug\XXTBase.pdb
+F:\XXT\XXTBase\XXTBase\bin\Debug\XXTBase.dll
+F:\XXT\XXTBase\XXTBase\bin\Debug\XXTBase.pdb
+F:\XXT\XXTBase\XXTBase\obj\Debug\XXTBase.csprojResolveAssemblyReference.cache
+F:\XXT\XXTBase\XXTBase\obj\Debug\XXTBase.Properties.Resources.resources
+F:\XXT\XXTBase\XXTBase\obj\Debug\XXTBase.XAxisControlPanel.resources
+F:\XXT\XXTBase\XXTBase\obj\Debug\XXTBase.XAxisStatusTable.resources
+F:\XXT\XXTBase\XXTBase\obj\Debug\XXTBase.XCardDoTable.resources
+F:\XXT\XXTBase\XXTBase\obj\Debug\XXTBase.XDiTable.resources
+F:\XXT\XXTBase\XXTBase\obj\Debug\XXTBase.XDoTable.resources
+F:\XXT\XXTBase\XXTBase\obj\Debug\XXTBase.XTaskStepBar.resources
+F:\XXT\XXTBase\XXTBase\obj\Debug\XXTBase.XStationStateBar.resources
+F:\XXT\XXTBase\XXTBase\obj\Debug\XXTBase.XPositionTable.resources
+F:\XXT\XXTBase\XXTBase\obj\Debug\XXTBase.XTimeoutTip.resources
+F:\XXT\XXTBase\XXTBase\obj\Debug\XXTBase.XTipDlg.resources
+F:\XXT\XXTBase\XXTBase\obj\Debug\XXTBase.XSettingGrid.resources
+F:\XXT\XXTBase\XXTBase\obj\Debug\XXTBase.XCardDiTable.resources
+F:\XXT\XXTBase\XXTBase\obj\Debug\XXTBase.csproj.GenerateResource.Cache
+F:\XXT\XXTBase\XXTBase\obj\Debug\XXTBase.dll
+F:\XXT\XXTBase\XXTBase\obj\Debug\XXTBase.pdb
+F:\XXT - 副本 (2) - 副本\XXTBase\XXTBase\bin\Debug\XXTBase.dll
+F:\XXT - 副本 (2) - 副本\XXTBase\XXTBase\bin\Debug\XXTBase.pdb
+F:\XXT - 副本 (2) - 副本\XXTBase\XXTBase\obj\Debug\XXTBase.csprojResolveAssemblyReference.cache
+F:\XXT - 副本 (2) - 副本\XXTBase\XXTBase\obj\Debug\XXTBase.Properties.Resources.resources
+F:\XXT - 副本 (2) - 副本\XXTBase\XXTBase\obj\Debug\XXTBase.XAxisControlPanel.resources
+F:\XXT - 副本 (2) - 副本\XXTBase\XXTBase\obj\Debug\XXTBase.XAxisStatusTable.resources
+F:\XXT - 副本 (2) - 副本\XXTBase\XXTBase\obj\Debug\XXTBase.XCardDoTable.resources
+F:\XXT - 副本 (2) - 副本\XXTBase\XXTBase\obj\Debug\XXTBase.XDiTable.resources
+F:\XXT - 副本 (2) - 副本\XXTBase\XXTBase\obj\Debug\XXTBase.XDoTable.resources
+F:\XXT - 副本 (2) - 副本\XXTBase\XXTBase\obj\Debug\XXTBase.XTaskStepBar.resources
+F:\XXT - 副本 (2) - 副本\XXTBase\XXTBase\obj\Debug\XXTBase.XStationStateBar.resources
+F:\XXT - 副本 (2) - 副本\XXTBase\XXTBase\obj\Debug\XXTBase.XPositionTable.resources
+F:\XXT - 副本 (2) - 副本\XXTBase\XXTBase\obj\Debug\XXTBase.XTimeoutTip.resources
+F:\XXT - 副本 (2) - 副本\XXTBase\XXTBase\obj\Debug\XXTBase.XTipDlg.resources
+F:\XXT - 副本 (2) - 副本\XXTBase\XXTBase\obj\Debug\XXTBase.XSettingGrid.resources
+F:\XXT - 副本 (2) - 副本\XXTBase\XXTBase\obj\Debug\XXTBase.XCardDiTable.resources
+F:\XXT - 副本 (2) - 副本\XXTBase\XXTBase\obj\Debug\XXTBase.csproj.GenerateResource.Cache
+F:\XXT - 副本 (2) - 副本\XXTBase\XXTBase\obj\Debug\XXTBase.dll
+F:\XXT - 副本 (2) - 副本\XXTBase\XXTBase\obj\Debug\XXTBase.pdb

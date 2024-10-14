@@ -1,0 +1,647 @@
+F:\XXTBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.Cache
+F:\XXTBase\ZeroBase\bin\Debug\ZeroBase.dll
+F:\XXTBase\ZeroBase\bin\Debug\ZeroBase.pdb
+F:\XXTBase\ZeroBase\obj\Debug\ZeroBase.dll
+F:\XXTBase\ZeroBase\obj\Debug\ZeroBase.pdb
+F:\XXTBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+F:\XXTBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+F:\XXTBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+F:\XXTBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+F:\XXTBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+F:\XXTBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+F:\XXTBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+F:\XXTBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+F:\XXTBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+F:\XXTBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+F:\XXTBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+F:\XXTBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+F:\XXTBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+D:\XXT\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+D:\XXT\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+D:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+D:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+D:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+D:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+D:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+D:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+D:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+D:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+D:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+D:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+D:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+D:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+D:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+D:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+D:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+D:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.Cache
+D:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+D:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+G:\XXT\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+G:\XXT\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+G:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csprojResolveAssemblyReference.cache
+G:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+G:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+G:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+G:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+G:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+G:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+G:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+G:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+G:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+G:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+G:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+G:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+G:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+G:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+G:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+G:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.Cache
+G:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+G:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+F:\XXT\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+F:\XXT\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+F:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.Cache
+F:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+F:\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csprojResolveAssemblyReference.cache
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Framework.Robort.RobotJogCtr.resources
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.Cache
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\bin\Debug\TCPLib.dll
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\bin\Debug\TCPLib.pdb
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+D:\项目\ITC\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+D:\程序\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Framework.Robort.RobotJogCtr.resources
+D:\程序\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+D:\程序\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+D:\程序\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+D:\程序\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+D:\程序\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+D:\程序\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+D:\程序\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+D:\程序\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+D:\程序\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+D:\程序\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+D:\程序\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+D:\程序\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+D:\程序\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+D:\程序\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+D:\程序\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+D:\程序\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.Cache
+D:\程序\XXT\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+D:\程序\XXT\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+D:\程序\XXT\ZeroBase\ZeroBase\bin\Debug\TCPLib.dll
+D:\程序\XXT\ZeroBase\ZeroBase\bin\Debug\TCPLib.pdb
+D:\程序\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+D:\程序\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Framework.Robort.RobotJogCtr.resources
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.Cache
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\bin\Debug\TCPLib.dll
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\bin\Debug\TCPLib.pdb
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csprojResolveAssemblyReference.cache
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+D:\程序\XXT-0526-1730\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+D:\程序\XXT-0528\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Framework.Robort.RobotJogCtr.resources
+D:\程序\XXT-0528\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+D:\程序\XXT-0528\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+D:\程序\XXT-0528\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+D:\程序\XXT-0528\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+D:\程序\XXT-0528\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+D:\程序\XXT-0528\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+D:\程序\XXT-0528\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+D:\程序\XXT-0528\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+D:\程序\XXT-0528\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+D:\程序\XXT-0528\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+D:\程序\XXT-0528\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+D:\程序\XXT-0528\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+D:\程序\XXT-0528\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+D:\程序\XXT-0528\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+D:\程序\XXT-0528\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+D:\程序\XXT-0528\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.Cache
+D:\程序\XXT-0528\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+D:\程序\XXT-0528\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+D:\程序\XXT-0528\ZeroBase\ZeroBase\bin\Debug\TCPLib.dll
+D:\程序\XXT-0528\ZeroBase\ZeroBase\bin\Debug\TCPLib.pdb
+D:\程序\XXT-0528\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+D:\程序\XXT-0528\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+D:\程序\XXT-0528\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csprojResolveAssemblyReference.cache
+D:\程序\XXT-0529\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+D:\程序\XXT-0529\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+D:\程序\XXT-0529\ZeroBase\ZeroBase\bin\Debug\TCPLib.dll
+D:\程序\XXT-0529\ZeroBase\ZeroBase\bin\Debug\TCPLib.pdb
+D:\程序\XXT-0529\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Framework.Robort.RobotJogCtr.resources
+D:\程序\XXT-0529\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+D:\程序\XXT-0529\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+D:\程序\XXT-0529\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+D:\程序\XXT-0529\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+D:\程序\XXT-0529\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+D:\程序\XXT-0529\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+D:\程序\XXT-0529\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+D:\程序\XXT-0529\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+D:\程序\XXT-0529\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+D:\程序\XXT-0529\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+D:\程序\XXT-0529\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+D:\程序\XXT-0529\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+D:\程序\XXT-0529\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+D:\程序\XXT-0529\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+D:\程序\XXT-0529\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+D:\程序\XXT-0529\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.Cache
+D:\程序\XXT-0529\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+D:\程序\XXT-0529\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+D:\程序\XXT-0529\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csprojResolveAssemblyReference.cache
+D:\程序\XXT-0531\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+D:\程序\XXT-0531\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+D:\程序\XXT-0531\ZeroBase\ZeroBase\bin\Debug\TCPLib.dll
+D:\程序\XXT-0531\ZeroBase\ZeroBase\bin\Debug\TCPLib.pdb
+D:\程序\XXT-0531\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csprojResolveAssemblyReference.cache
+D:\程序\XXT-0531\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Framework.Robort.RobotJogCtr.resources
+D:\程序\XXT-0531\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+D:\程序\XXT-0531\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+D:\程序\XXT-0531\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+D:\程序\XXT-0531\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+D:\程序\XXT-0531\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+D:\程序\XXT-0531\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+D:\程序\XXT-0531\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+D:\程序\XXT-0531\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+D:\程序\XXT-0531\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+D:\程序\XXT-0531\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+D:\程序\XXT-0531\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+D:\程序\XXT-0531\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+D:\程序\XXT-0531\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+D:\程序\XXT-0531\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+D:\程序\XXT-0531\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+D:\程序\XXT-0531\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.Cache
+D:\程序\XXT-0531\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+D:\程序\XXT-0531\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+D:\程序\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csprojResolveAssemblyReference.cache
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Framework.Robort.RobotJogCtr.resources
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.cache
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CoreCompileInputs.cache
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\bin\Debug\TCPLib.dll
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\bin\Debug\TCPLib.pdb
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CopyComplete
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+F:\资料\XXT - 0704\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csprojAssemblyReference.cache
+F:\资料\XXT\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+F:\资料\XXT\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+F:\资料\XXT\ZeroBase\ZeroBase\bin\Debug\TCPLib.dll
+F:\资料\XXT\ZeroBase\ZeroBase\bin\Debug\TCPLib.pdb
+F:\资料\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Framework.Robort.RobotJogCtr.resources
+F:\资料\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+F:\资料\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+F:\资料\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+F:\资料\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+F:\资料\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+F:\资料\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+F:\资料\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+F:\资料\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+F:\资料\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+F:\资料\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+F:\资料\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+F:\资料\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+F:\资料\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+F:\资料\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+F:\资料\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+F:\资料\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.cache
+F:\资料\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CoreCompileInputs.cache
+F:\资料\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CopyComplete
+F:\资料\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+F:\资料\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+F:\资料\XXT\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csprojAssemblyReference.cache
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\bin\Debug\TCPLib.dll
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\bin\Debug\TCPLib.pdb
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csprojResolveAssemblyReference.cache
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Framework.Robort.RobotJogCtr.resources
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.Cache
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+F:\资料\XXT - 副本\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+F:\资料\XXT -\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Framework.Robort.RobotJogCtr.resources
+F:\资料\XXT -\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+F:\资料\XXT -\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+F:\资料\XXT -\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+F:\资料\XXT -\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+F:\资料\XXT -\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+F:\资料\XXT -\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+F:\资料\XXT -\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+F:\资料\XXT -\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+F:\资料\XXT -\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+F:\资料\XXT -\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+F:\资料\XXT -\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+F:\资料\XXT -\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+F:\资料\XXT -\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+F:\资料\XXT -\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+F:\资料\XXT -\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+F:\资料\XXT -\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.cache
+F:\资料\XXT -\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CoreCompileInputs.cache
+F:\资料\XXT -\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+F:\资料\XXT -\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+F:\资料\XXT -\ZeroBase\ZeroBase\bin\Debug\InfoShow.dll
+F:\资料\XXT -\ZeroBase\ZeroBase\bin\Debug\TCPLib.dll
+F:\资料\XXT -\ZeroBase\ZeroBase\bin\Debug\TCPLib.pdb
+F:\资料\XXT -\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csprojAssemblyReference.cache
+F:\资料\XXT -\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CopyComplete
+F:\资料\XXT -\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+F:\资料\XXT -\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\bin\Debug\InfoShow.dll
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\bin\Debug\TCPLib.dll
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\bin\Debug\TCPLib.pdb
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csprojAssemblyReference.cache
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Framework.Robort.RobotJogCtr.resources
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.cache
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CoreCompileInputs.cache
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CopyComplete
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+C:\Users\www\Desktop\XXT - -bk-new\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\bin\Debug\InfoShow.dll
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\bin\Debug\TCPLib.dll
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\bin\Debug\TCPLib.pdb
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csprojAssemblyReference.cache
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Framework.Robort.RobotJogCtr.resources
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.cache
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CoreCompileInputs.cache
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CopyComplete
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+C:\Users\www\Desktop\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+F:\资料\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Framework.Robort.RobotJogCtr.resources
+F:\资料\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+F:\资料\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+F:\资料\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+F:\资料\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+F:\资料\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+F:\资料\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+F:\资料\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+F:\资料\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+F:\资料\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+F:\资料\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+F:\资料\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+F:\资料\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+F:\资料\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+F:\资料\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+F:\资料\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+F:\资料\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.cache
+F:\资料\ITC\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+F:\资料\ITC\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+F:\资料\ITC\ZeroBase\ZeroBase\bin\Debug\InfoShow.dll
+F:\资料\ITC\ZeroBase\ZeroBase\bin\Debug\TCPLib.dll
+F:\资料\ITC\ZeroBase\ZeroBase\bin\Debug\TCPLib.pdb
+F:\资料\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+F:\资料\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+F:\资料\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CoreCompileInputs.cache
+F:\资料\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CopyComplete
+F:\资料\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csprojAssemblyReference.cache
+F:\Project\ITC\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+F:\Project\ITC\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+F:\Project\ITC\ZeroBase\ZeroBase\bin\Debug\InfoShow.dll
+F:\Project\ITC\ZeroBase\ZeroBase\bin\Debug\TCPLib.dll
+F:\Project\ITC\ZeroBase\ZeroBase\bin\Debug\TCPLib.pdb
+F:\Project\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csprojAssemblyReference.cache
+F:\Project\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Framework.Robort.RobotJogCtr.resources
+F:\Project\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+F:\Project\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+F:\Project\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+F:\Project\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+F:\Project\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+F:\Project\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+F:\Project\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+F:\Project\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+F:\Project\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+F:\Project\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+F:\Project\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+F:\Project\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+F:\Project\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+F:\Project\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+F:\Project\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+F:\Project\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.cache
+F:\Project\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CoreCompileInputs.cache
+F:\Project\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CopyComplete
+F:\Project\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+F:\Project\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+F:\DESK\ITC0918\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+F:\DESK\ITC0918\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+F:\DESK\ITC0918\ZeroBase\ZeroBase\bin\Debug\InfoShow.dll
+F:\DESK\ITC0918\ZeroBase\ZeroBase\bin\Debug\TCPLib.dll
+F:\DESK\ITC0918\ZeroBase\ZeroBase\bin\Debug\TCPLib.pdb
+F:\DESK\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csprojResolveAssemblyReference.cache
+F:\DESK\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Framework.Robort.RobotJogCtr.resources
+F:\DESK\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+F:\DESK\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+F:\DESK\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+F:\DESK\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+F:\DESK\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+F:\DESK\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+F:\DESK\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+F:\DESK\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+F:\DESK\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+F:\DESK\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+F:\DESK\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+F:\DESK\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+F:\DESK\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+F:\DESK\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+F:\DESK\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+F:\DESK\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.cache
+F:\DESK\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CoreCompileInputs.cache
+F:\DESK\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CopyComplete
+F:\DESK\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+F:\DESK\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+F:\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Framework.Robort.RobotJogCtr.resources
+F:\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+F:\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+F:\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+F:\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+F:\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+F:\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+F:\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+F:\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+F:\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+F:\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+F:\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+F:\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+F:\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+F:\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+F:\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+F:\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.cache
+F:\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CoreCompileInputs.cache
+F:\ITC0918\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+F:\ITC0918\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+F:\ITC0918\ZeroBase\ZeroBase\bin\Debug\InfoShow.dll
+F:\ITC0918\ZeroBase\ZeroBase\bin\Debug\TCPLib.dll
+F:\ITC0918\ZeroBase\ZeroBase\bin\Debug\TCPLib.pdb
+F:\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CopyComplete
+F:\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+F:\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\bin\Debug\InfoShow.dll
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\bin\Debug\TCPLib.dll
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\bin\Debug\TCPLib.pdb
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csprojResolveAssemblyReference.cache
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Framework.Robort.RobotJogCtr.resources
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.cache
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CoreCompileInputs.cache
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CopyComplete
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+C:\Users\LV\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\bin\Debug\InfoShow.dll
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\bin\Debug\TCPLib.dll
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\bin\Debug\TCPLib.pdb
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Framework.Robort.RobotJogCtr.resources
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+C:\Users\Administrator\Desktop\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+F:\ITC0918\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csprojResolveAssemblyReference.cache
+F:\ITC\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+F:\ITC\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+F:\ITC\ZeroBase\ZeroBase\bin\Debug\InfoShow.dll
+F:\ITC\ZeroBase\ZeroBase\bin\Debug\TCPLib.dll
+F:\ITC\ZeroBase\ZeroBase\bin\Debug\TCPLib.pdb
+F:\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Framework.Robort.RobotJogCtr.resources
+F:\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+F:\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+F:\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+F:\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+F:\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+F:\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+F:\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+F:\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+F:\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+F:\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+F:\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+F:\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+F:\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+F:\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+F:\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+F:\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.cache
+F:\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CoreCompileInputs.cache
+F:\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CopyComplete
+F:\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+F:\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\bin\Debug\InfoShow.dll
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\bin\Debug\TCPLib.dll
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\bin\Debug\TCPLib.pdb
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Framework.Robort.RobotJogCtr.resources
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.cache
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CoreCompileInputs.cache
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CopyComplete
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+C:\Users\LV\Desktop\新建文件夹\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csprojResolveAssemblyReference.cache
+F:\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csprojResolveAssemblyReference.cache
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\bin\Debug\InfoShow.dll
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\bin\Debug\TCPLib.dll
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\bin\Debug\TCPLib.pdb
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csprojResolveAssemblyReference.cache
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Framework.Robort.RobotJogCtr.resources
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.cache
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CoreCompileInputs.cache
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CopyComplete
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+F:\DESK\Projects\贴屏机\ITC\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\bin\Debug\ZeroBase.dll
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\bin\Debug\ZeroBase.pdb
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Framework.Robort.RobotJogCtr.resources
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\obj\Debug\ZeroBase.Properties.Resources.resources
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDiTable.resources
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\obj\Debug\ZeroBase.LsCardDoTable.resources
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisControlPanel.resources
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XAxisStatusTable.resources
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDoTable.resources
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDiTable.resources
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XDoTable.resources
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTaskStepBar.resources
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XStationStateBar.resources
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XPositionTable.resources
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTimeoutTip.resources
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XTipDlg.resources
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XSettingGrid.resources
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\obj\Debug\ZeroBase.XCardDiTable.resources
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.GenerateResource.cache
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\obj\Debug\ZeroBase.csproj.Up2Date
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\obj\Debug\ZeroBase.dll
+C:\Users\user\Downloads\ZeroBase\ZeroBase\ZeroBase\obj\Debug\ZeroBase.pdb

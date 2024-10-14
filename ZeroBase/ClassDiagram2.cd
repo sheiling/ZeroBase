@@ -1,0 +1,696 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="APS168_W32.APS168" Collapsed="true">
+    <Position X="66" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/+3e7/22a2/e6///z7v3f//+r9//+/vb/Z3//7+v6vY=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DASK" Collapsed="true">
+    <Position X="67.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9/////////7//////////7//////3//////////vv/8=</HashCode>
+      <FileName>ADLINK\Dask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XPosition" Collapsed="true">
+    <Position X="61.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAgJAAAIAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Config\XPosition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XPositionManager" Collapsed="true">
+    <Position X="63.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggAAACAQAAAANQAAAAYAAEAAAIBAAoAAQIQBCMAAAAA=</HashCode>
+      <FileName>Config\XPositionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XPositionMap" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIBAABAAAAEQAAEAAAiBAQAAAIABAAAAAAgAAEAIAA=</HashCode>
+      <FileName>Config\XPositionMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XSetting" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAABAAAAAAAIAgAAAiAAwAAAAAAgAAAAAAAAAAAQA=</HashCode>
+      <FileName>Config\XSetting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XSettingManager" Collapsed="true">
+    <Position X="66" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAgAAACAABIAgAAQAAAAAAAAAA=</HashCode>
+      <FileName>Config\XSettingManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XConvert" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABAAAAAECAEAAQAABCAgAAAAAIAAAAABAAAAAA=</HashCode>
+      <FileName>Formatter\XConvert.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XXml" Collapsed="true">
+    <Position X="23" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAMACAAAAQAAAAAEIAAAEAAAAAAAAAAAAAQAIAAAA=</HashCode>
+      <FileName>Formatter\XXml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XLogger" Collapsed="true">
+    <Position X="36.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAIAAIAAAQAAAAAABAAIAAQAAAAAAAAAQ=</HashCode>
+      <FileName>Framework\Alarm\Logger\XLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.MyTraceListener" Collapsed="true">
+    <Position X="69.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Framework\Alarm\Logger\XTraceListener.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XAlarmEventArgs" Collapsed="true">
+    <Position X="73" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAiAAAAIAAgAIAAIAAAAAAAAAAIAAAACAA=</HashCode>
+      <FileName>Framework\Alarm\XAlarmEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XAlarmEventHandler" Collapsed="true">
+    <Position X="43.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Alarm\XAlarmEventHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XAlarmEventServer" Collapsed="true">
+    <Position X="59" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAgA=</HashCode>
+      <FileName>Framework\Alarm\XAlarmEventServer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XAlarmReporter" Collapsed="true">
+    <Position X="43.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAggAAAiAABMAAQQBRQAAEgEJCBoAAYAoBAgAAAoM=</HashCode>
+      <FileName>Framework\Alarm\XAlarmReporter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XCard" Collapsed="true">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>qMQABoCgAgABgCgQggGAHYS0BAANAgAEMJAAhNAgKQA=</HashCode>
+      <FileName>Framework\Device\Card\XCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XCommandCard" Collapsed="true">
+    <Position X="27.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iEQABIDoAgwBgCgAAgAAHYS0BAIpEAAAMJAAhOCgKQA=</HashCode>
+      <FileName>Framework\Device\Card\XCommandCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XCommandCard208C" Collapsed="true">
+    <Position X="25.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAQAAACAAgABoCgAAgAADYSEAAAAAAAAIJAAhMCgIQA=</HashCode>
+      <FileName>Framework\Device\Card\XCommandCard208C.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XCommandCard7442" Collapsed="true">
+    <Position X="27.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAIAAAAAAAAAAAAAAAACAAAABAAAAEAAAAAAgAAA=</HashCode>
+      <FileName>Framework\Device\Card\XCommandCard7442.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XCommandCard9112" Collapsed="true">
+    <Position X="29.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAAAAAIAAAAAAAAAAAAEAAAAAQBAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Device\Card\XCommandCard9112.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XAPS_Define" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAACAAAAAAIAAAAIAAAIAAAAAAACAAQAEAACA=</HashCode>
+      <FileName>Framework\Device\XAPS_Define.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XChannelValue" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAARAABIAQAAAAAAAQAAAQEAAQAAAQgAAgAAAA=</HashCode>
+      <FileName>Framework\Device\XChanelValue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XDevice" Collapsed="true">
+    <Position X="20.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>A4BAAAIEIAAABYAAAAGAAAQAAABEBAABQABQAAAAEAA=</HashCode>
+      <FileName>Framework\Device\XDevice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XDi" Collapsed="true">
+    <Position X="32" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAQAAgQAQAIAIAAAABAAQAAAgEAgAAAAAAAAggIgQ=</HashCode>
+      <FileName>Framework\Device\XDi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XDo" Collapsed="true">
+    <Position X="34.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAYAAAAgQCwAoAAAAAAgIASAIAgEigAAAAAAAAgIIAQ=</HashCode>
+      <FileName>Framework\Device\XDo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XMachine" Collapsed="true">
+    <Position X="41" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAACAACCEQAAAACAAREAAJgABwAQQEYAAAAAAAAEA=</HashCode>
+      <FileName>Framework\Machine\XMachine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XMachineEventHandler" Collapsed="true">
+    <Position X="41" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Machine\XMachineEventHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XCtrlEventHandler" Collapsed="true">
+    <Position X="47.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Motion\XCtrlEventHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XMove" Collapsed="true">
+    <Position X="50" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAARgAACEgAEAoAkCIFUjIKdAAiAAoBbAIAAgAQAIIA=</HashCode>
+      <FileName>Framework\Motion\XMove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XSetDo" Collapsed="true">
+    <Position X="45.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAQAAAAAgAAAoAAAABQABCIAAAAAAGKAAIAgAQIAAQ=</HashCode>
+      <FileName>Framework\Motion\XSetDo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XWaitDi" Collapsed="true">
+    <Position X="47.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAACAAAAgEAIwAAAAEQAACIAAAAAQEGIAIA4AQAAIA=</HashCode>
+      <FileName>Framework\Motion\XWaitDi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XStation" Collapsed="true">
+    <Position X="38.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACgjAGCILIBRwCYAAEQBAWgEAKEAAgCMYIARACAAYQ=</HashCode>
+      <FileName>Framework\Station\XStation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XStationEventHandler" Collapsed="true">
+    <Position X="38.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Station\XStationEventHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XStationManager" Collapsed="true">
+    <Position X="54.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAgAAAAAABAAAAAAAAAAAABAAAAEQAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Station\XStationManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XTask" Collapsed="true">
+    <Position X="52.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>jAYAgJiAQKAADYADCkCxKISMAAiUEAANIJAQpAAQMiE=</HashCode>
+      <FileName>Framework\Task\XTask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XTaskEventHandler" Collapsed="true">
+    <Position X="52.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Task\XTaskEventHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XTaskManager" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAABAAAgAQIgIAAAAAAA=</HashCode>
+      <FileName>Framework\Task\XTaskManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XController" Collapsed="true">
+    <Position X="52.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAIAnAAQQIAAAAAAAAAAABAAAAAYAAQAQgAAAA=</HashCode>
+      <FileName>Framework\XController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XEvent" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEAgAEAAAAAAAQAAAAAEAAAQACAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Framework\XEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XEventArgs" Collapsed="true">
+    <Position X="71.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAQAAAAEAAAAAIAAAAAAAEQgAAAEAAAQAAA=</HashCode>
+      <FileName>Framework\XEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XEventHandler" Collapsed="true">
+    <Position X="44.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAACAAAAAQAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\XEventHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XEventServer" Collapsed="true">
+    <Position X="56.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYEAAAAAAAIAAAAAACAAAAAAAAAAAEAAAAAAAAQAgA=</HashCode>
+      <FileName>Framework\XEventServer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XEventServerBase" Collapsed="true">
+    <Position X="58" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABIAAAABACAQAAAABCAAQAAAgAAAABEAIIAAAQAgEgA=</HashCode>
+      <FileName>Framework\XEventServerBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XObject" Collapsed="true">
+    <Position X="32" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\XObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XAxisControlPanel" Collapsed="true">
+    <Position X="74.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/8BCgEQAEHCAMDMAAICAAQAGUg0OIAgIFQEGkQIAEUU=</HashCode>
+      <FileName>UserControls\XAxisControlPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XAxisStatusTable" Collapsed="true">
+    <Position X="66" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAAAAAAAQGAAQACAAgECAgIAAACAAIAAAU=</HashCode>
+      <FileName>UserControls\XAxisStatusTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XDiTable" Collapsed="true">
+    <Position X="67.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAAAAAAAQCAAQACAAgACCgIAAACAAIAAAU=</HashCode>
+      <FileName>UserControls\XDiTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XDoTable" Collapsed="true">
+    <Position X="69.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAAAAAAAQCAAQACAAggCCgIAAACAAIAAAU=</HashCode>
+      <FileName>UserControls\XDoTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XPositionTable" Collapsed="true">
+    <Position X="73" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gmCEAC0AgiAEYAACYXiAAAEaFBgAAAgIAAAAAiAAgAE=</HashCode>
+      <FileName>UserControls\XPositionTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XSettingGrid" Collapsed="true">
+    <Position X="74.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgACAAIAAAIECAAEACAAAAAAAQAAAAAAAAAgA=</HashCode>
+      <FileName>UserControls\XSettingGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XStationStateBar" Collapsed="true">
+    <Position X="67.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgMQAAKAAAgAAAACAgAACAACIAAAABAABAFAAiAA=</HashCode>
+      <FileName>UserControls\XStationStateBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XTaskStepBar" Collapsed="true">
+    <Position X="69.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAEAAAAAAiAAAACAAgMAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>UserControls\XTaskStepBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XTimeoutTip" Collapsed="true">
+    <Position X="71.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACBABgAAAACAAAACAAAYAAACAGAQABAAAAA=</HashCode>
+      <FileName>UserControls\XTimeoutTip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.XTipDlg" Collapsed="true">
+    <Position X="73" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgACAAAAAAAACAAAACCAAYAAAAEGAAAQAAAAA=</HashCode>
+      <FileName>UserControls\XTipDlg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZeroBase.Properties.Resources" Collapsed="true">
+    <Position X="71.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAIQAAIAAAiggCAgAGBUAoIAwAAMQwjgQQIIKAAYog=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="APS168_W32.STR_SAMP_DATA_4CH" Collapsed="true">
+    <Position X="66" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAgAAAAAgAQAAAAAAAABAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.MOVE_PARA" Collapsed="true">
+    <Position X="66" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQCAAgCAAAAAAACAAAAAAABAAAAAAAAAAEAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.POINT_DATA" Collapsed="true">
+    <Position X="66" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQCAAgCAAIAAAADAAAAAAABAAAAAAAAEAEEA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.PNT_DATA" Collapsed="true">
+    <Position X="67.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQDIAAAAAAAAAAAAAAAEAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.PNT_DATA_2D" Collapsed="true">
+    <Position X="69.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQDIAAAAABAAAAAAAAAEAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.PNT_DATA_2D_F64" Collapsed="true">
+    <Position X="73" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAgAAAAABAIAAAAAAAAAAAAAAAEAIAAAAAAAAABBAAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.PNT_DATA_4DL" Collapsed="true">
+    <Position X="74.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQCIAAAAABIAAAAAAAAEAAAgAAAAAAAQAAAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.POINT_DATA_EX" Collapsed="true">
+    <Position X="67.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQiAAgCAAIAAAADEAAAAAQBAAAAAAAAEAEEQ=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.POINT_DATA2" Collapsed="true">
+    <Position X="69.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAIAAAABAAAAAAABAAAAAAAAEAAEA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.POINT_DATA3" Collapsed="true">
+    <Position X="71.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAggAAAAAAAABAgAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.VAO_DATA" Collapsed="true">
+    <Position X="71.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAIAAACAAAAAAEAAACAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.PTSTS" Collapsed="true">
+    <Position X="74.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAEAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAIA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.LPSTS" Collapsed="true">
+    <Position X="74.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAoAAAAAAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.DEBUG_DATA" Collapsed="true">
+    <Position X="67.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAQAAAAAAAAAAAAAAAAAAABAAAECAAAAAAACA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.DEBUG_STATE" Collapsed="true">
+    <Position X="69.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAEA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.PTDWL" Collapsed="true">
+    <Position X="66" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.PTLINE" Collapsed="true">
+    <Position X="73" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.PTA2CA" Collapsed="true">
+    <Position X="69.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEEAAAAIAAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.PTA2CE" Collapsed="true">
+    <Position X="71.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAEAAAAIAAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.PTA3CA" Collapsed="true">
+    <Position X="73" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAEEAAAAIAAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.PTA3CE" Collapsed="true">
+    <Position X="74.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAEAAAAIAAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.PTHCA" Collapsed="true">
+    <Position X="67.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAEAAAAAAAAAAAAAAAAAIAAAAAEEAAAAIAAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.PTHCE" Collapsed="true">
+    <Position X="69.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAgAAAAAAAAAAAIAAAAAAEAAAAIAAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.PTINFO" Collapsed="true">
+    <Position X="71.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.STR_SAMP_DATA_8CH" Collapsed="true">
+    <Position X="67.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.JOG_DATA" Collapsed="true">
+    <Position X="73" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQiAAgAkAAAAAAAAAAAAAAABAAAAAAAAAEAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.HOME_PARA" Collapsed="true">
+    <Position X="71.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAACAAAkAAAAAgAAAACAAAAAAAAACAACAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.POS_DATA_2D" Collapsed="true">
+    <Position X="73" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABIAAAAABAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.ASYNCALL" Collapsed="true">
+    <Position X="66" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.TSK_INFO" Collapsed="true">
+    <Position X="69.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIYAAAAAAAQAAhAAAAAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.POS_DATA_2D_F64" Collapsed="true">
+    <Position X="74.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAIAAAAAAAAABBAAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.POS_DATA_2D_RPS" Collapsed="true">
+    <Position X="67.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABIAAAAABAAAAAAAAAEAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.POS_DATA_2D_F64_RPS" Collapsed="true">
+    <Position X="66" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAIAAABAAAAABBAAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="APS168_W32.PNT_DATA_2D_EXT" Collapsed="true">
+    <Position X="71.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAgBAIGAAAACQAAACYAAgEAIAAAIAQAggBBAAA=</HashCode>
+      <FileName>ADLINK\APS168.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="APS_Define_W32.APS_Define" Collapsed="true">
+    <Position X="66" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>f/X////3r//////X/t///6////9//7f/93////////o=</HashCode>
+      <FileName>ADLINK\APS_Define.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ZeroBase.XSysAlarmId" Collapsed="true">
+    <Position X="69.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAACAAAAAAAAQAACAIBEAABAAAAAAAAEAAAIABAIA=</HashCode>
+      <FileName>Framework\Alarm\XAlarmReporter.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ZeroBase.XAlarmLevel" Collapsed="true">
+    <Position X="74.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAIAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAACAA=</HashCode>
+      <FileName>Framework\Alarm\XAlarmReporter.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ZeroBase.ArcDir" Collapsed="true">
+    <Position X="67.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Framework\Device\Card\XCommandCard208C.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ZeroBase.CompareTriggerDir" Collapsed="true">
+    <Position X="69.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Framework\Device\Card\XCommandCard208C.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ZeroBase.DOSTSTYPE" Collapsed="true">
+    <Position X="73" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAwAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Motion\XSetDo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ZeroBase.DISTSTYPE" Collapsed="true">
+    <Position X="71.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAwAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Motion\XWaitDi.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ZeroBase.XStationState" Collapsed="true">
+    <Position X="67.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAIAAABAAAASAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Framework\Station\XStation.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ZeroBase.XEventID" Collapsed="true">
+    <Position X="66" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAIAiAgAAAACAAAAAAQAAAAAAIAAAAAAgYAKQ=</HashCode>
+      <FileName>Framework\XEvent.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="CallbackDelegate" Collapsed="true">
+    <Position X="66" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ADLINK\Dask.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

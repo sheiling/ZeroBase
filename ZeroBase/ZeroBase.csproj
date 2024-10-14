@@ -1,0 +1,438 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{63DBA6FE-E756-4BD8-919F-3B844E5D2996}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ZeroBase</RootNamespace>
+    <AssemblyName>ZeroBase</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ACS.SPiiPlusNET, Version=2.50.0.26599, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ACS.SPiiPlusNET.dll</HintPath>
+    </Reference>
+    <Reference Include="InfoShow">
+      <HintPath>..\..\XXT\bin\Debug\InfoShow.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TCPLib">
+      <HintPath>..\..\TCPLib\bin\Debug\TCPLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ADLINK\APS168.cs" />
+    <Compile Include="ADLINK\APS_Define.cs" />
+    <Compile Include="ADLINK\Dask.cs" />
+    <Compile Include="Config\LoginCtr.cs" />
+    <Compile Include="Config\XSettingManager.cs" />
+    <Compile Include="Framework\Alarm\Logger\XLogger.cs" />
+    <Compile Include="Framework\Alarm\XAlarmEventArgs.cs" />
+    <Compile Include="Framework\Alarm\XAlarmEventServer.cs" />
+    <Compile Include="Framework\Alarm\Logger\XTraceListener.cs" />
+    <Compile Include="Framework\Device\Card\XCommandCard7432.cs" />
+    <Compile Include="Framework\Device\Card\XCommandCardLeisai.cs" />
+    <Compile Include="Framework\Device\XleisaiAxis.cs" />
+    <Compile Include="Framework\Device\Xleisai_Define.cs" />
+    <Compile Include="Framework\Device\Card\XCommand8338.cs" />
+    <Compile Include="Framework\Device\Card\XCommandACS.cs" />
+    <Compile Include="Framework\Device\Card\XCommandCard7230.cs" />
+    <Compile Include="Framework\Device\Card\XCommandCard9112.cs" />
+    <Compile Include="Framework\Device\Card\XCommandCard9114.cs" />
+    <Compile Include="Framework\Device\Card\XRobot.cs" />
+    <Compile Include="Framework\Device\IAxis.cs" />
+    <Compile Include="Framework\Device\XACSAxis.cs" />
+    <Compile Include="Framework\Device\XACS_Define.cs" />
+    <Compile Include="Framework\Device\XADLINKAxis.cs" />
+    <Compile Include="Framework\Device\XChanelValue.cs" />
+    <Compile Include="Framework\Robort\EpsonRobot.cs" />
+    <Compile Include="Framework\Robort\NumberCtr.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Framework\Robort\NumberCtr.Designer.cs" />
+    <Compile Include="Framework\Robort\RobortDi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Framework\Robort\RobortDi.Designer.cs" />
+    <Compile Include="Framework\Robort\RobortDo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Framework\Robort\RobortDo.Designer.cs" />
+    <Compile Include="Framework\Robort\RobotJogCtr.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Framework\Robort\RobotJogCtr.Designer.cs" />
+    <Compile Include="Framework\Robort\RobotManger.cs" />
+    <Compile Include="Framework\Robort\XCommandRobot.cs" />
+    <Compile Include="Framework\Robort\XRobortDi.cs" />
+    <Compile Include="Framework\Robort\XRobortDo.cs" />
+    <Compile Include="Framework\Robort\XRobotControler.cs" />
+    <Compile Include="Framework\Robort\XRobotPositionTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Framework\Robort\XRobotPositionTable.Designer.cs" />
+    <Compile Include="Framework\XEventArgs.cs" />
+    <Compile Include="Framework\Machine\XMachine.cs" />
+    <Compile Include="Framework\Machine\XMachineEventHandler.cs" />
+    <Compile Include="Leisai\LTDMC.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Framework\Motion\XCtrlEventHandler.cs" />
+    <Compile Include="Framework\Alarm\XAlarmEventHandler.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\LsCardDiTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\LsCardDiTable.Designer.cs">
+      <DependentUpon>LsCardDiTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\LsCardDoTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\LsCardDoTable.Designer.cs">
+      <DependentUpon>LsCardDoTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\XAxisControlPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\XAxisControlPanel.designer.cs">
+      <DependentUpon>XAxisControlPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\XAxisStatusTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\XAxisStatusTable.designer.cs">
+      <DependentUpon>XAxisStatusTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Framework\Device\Card\XCard.cs" />
+    <Compile Include="Framework\Device\Card\XCommandCard.cs" />
+    <Compile Include="Framework\Device\Card\XCommandCard208C.cs" />
+    <Compile Include="Framework\Device\Card\XCommandCard7442.cs" />
+    <Compile Include="Config\XPositionManager.cs" />
+    <Compile Include="Config\XPositionMap.cs" />
+    <Compile Include="UserControls\XCardDoTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\XCardDoTable.Designer.cs">
+      <DependentUpon>XCardDoTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\XDoTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\XDoTable.designer.cs">
+      <DependentUpon>XDoTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\XTaskStepBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\XTaskStepBar.designer.cs">
+      <DependentUpon>XTaskStepBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Config\XSetting.cs" />
+    <Compile Include="Framework\XController.cs" />
+    <Compile Include="Formatter\XConvert.cs" />
+    <Compile Include="Framework\Device\XDevice.cs" />
+    <Compile Include="Framework\Device\XDi.cs" />
+    <Compile Include="UserControls\XDiTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\XDiTable.designer.cs">
+      <DependentUpon>XDiTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Framework\Device\XDo.cs" />
+    <Compile Include="Framework\XEvent.cs" />
+    <Compile Include="Framework\XEventHandler.cs" />
+    <Compile Include="Framework\XEventServer.cs" />
+    <Compile Include="Framework\Motion\XMove.cs" />
+    <Compile Include="Framework\Device\XAPS_Define.cs" />
+    <Compile Include="Framework\XObject.cs" />
+    <Compile Include="Config\XPosition.cs" />
+    <Compile Include="Framework\Motion\XSetDo.cs" />
+    <Compile Include="Framework\Station\XStation.cs" />
+    <Compile Include="Framework\Station\XStationEventHandler.cs" />
+    <Compile Include="Framework\Station\XStationManager.cs" />
+    <Compile Include="UserControls\XStationStateBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\XStationStateBar.designer.cs">
+      <DependentUpon>XStationStateBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Framework\XEventServerBase.cs" />
+    <Compile Include="Framework\Task\XTask.cs" />
+    <Compile Include="Framework\Task\XTaskEventHandler.cs" />
+    <Compile Include="Framework\Task\XTaskManager.cs" />
+    <Compile Include="UserControls\XPositionTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\XPositionTable.designer.cs">
+      <DependentUpon>XPositionTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\XTimeoutTip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserControls\XTimeoutTip.Designer.cs">
+      <DependentUpon>XTimeoutTip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\XTipDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserControls\XTipDlg.designer.cs">
+      <DependentUpon>XTipDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Framework\Motion\XWaitDi.cs" />
+    <Compile Include="Formatter\XXml.cs" />
+    <Compile Include="UserControls\XSettingGrid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\XSettingGrid.Designer.cs">
+      <DependentUpon>XSettingGrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Framework\Alarm\XAlarmReporter.cs" />
+    <Compile Include="UserControls\XCardDiTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\XCardDiTable.Designer.cs">
+      <DependentUpon>XCardDiTable.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Framework\Robort\RobotJogCtr.resx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\LsCardDiTable.resx">
+      <DependentUpon>LsCardDiTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\LsCardDoTable.resx">
+      <DependentUpon>LsCardDoTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\XAxisControlPanel.resx">
+      <DependentUpon>XAxisControlPanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\XAxisStatusTable.resx">
+      <DependentUpon>XAxisStatusTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\XCardDoTable.resx">
+      <DependentUpon>XCardDoTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\XDiTable.resx">
+      <DependentUpon>XDiTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\XDoTable.resx">
+      <DependentUpon>XDoTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\XTaskStepBar.resx">
+      <DependentUpon>XTaskStepBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\XStationStateBar.resx">
+      <DependentUpon>XStationStateBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\XPositionTable.resx">
+      <DependentUpon>XPositionTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\XTimeoutTip.resx">
+      <DependentUpon>XTimeoutTip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\XTipDlg.resx">
+      <DependentUpon>XTipDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\XSettingGrid.resx">
+      <DependentUpon>XSettingGrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\XCardDiTable.resx">
+      <DependentUpon>XCardDiTable.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram2.cd" />
+    <None Include="Resources\_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_clear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_deleteFile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_fail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_focus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_lampBlue20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_lampGray20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_lampGreen20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_lampOrange20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_lampRed20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_newFile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_ok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_pause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_setting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_start.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_teach.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_event.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_alarmH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_alarmL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_done.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_wait.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_table.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_userAdmin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_userOp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_org.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_rotate_antiClock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_rotate_clock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_smile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

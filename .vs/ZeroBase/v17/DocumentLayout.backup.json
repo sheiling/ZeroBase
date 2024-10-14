@@ -1,0 +1,1141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\xeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\xeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\xevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\xevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|c:\\users\\user\\downloads\\zerobase\\zerobase\\zerobase\\framework\\task\\xtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\task\\xtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\task\\xtaskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\task\\xtaskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\task\\xtaskeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\task\\xtaskeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\xcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\xcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\alarm\\xalarmreporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\alarm\\xalarmreporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\xeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\xeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\motion\\xmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\motion\\xmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\device\\xdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\device\\xdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\machine\\xmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\machine\\xmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\device\\xdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\device\\xdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\device\\xdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\device\\xdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|c:\\users\\user\\downloads\\zerobase\\zerobase\\zerobase\\framework\\device\\xchanelvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\device\\xchanelvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\motion\\xsetdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\motion\\xsetdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\alarm\\xalarmeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\alarm\\xalarmeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\motion\\xctrleventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\motion\\xctrleventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\device\\card\\xcommandcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\device\\card\\xcommandcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\alarm\\xalarmeventserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\alarm\\xalarmeventserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\alarm\\xalarmeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\alarm\\xalarmeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\xtaskstepbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\xtaskstepbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\xtaskstepbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\xtaskstepbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\xeventserverbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\xeventserverbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\xeventserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\xeventserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\device\\card\\xcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\device\\card\\xcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\device\\iaxis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\device\\iaxis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\formatter\\xxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\formatter\\xxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\formatter\\xconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\formatter\\xconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\config\\loginctr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\config\\loginctr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\adlink\\aps168.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\adlink\\aps168.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\device\\card\\xcommandacs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\device\\card\\xcommandacs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\device\\xadlinkaxis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\device\\xadlinkaxis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\device\\xacsaxis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\device\\xacsaxis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\device\\xacs_define.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\device\\xacs_define.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\config\\xpositionmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\config\\xpositionmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\device\\card\\xcommandcardleisai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\device\\card\\xcommandcardleisai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\config\\xpositionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\config\\xpositionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\alarm\\logger\\xlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\alarm\\logger\\xlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\station\\xstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\station\\xstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\station\\xstationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\station\\xstationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\device\\card\\xcommandcard7442.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\device\\card\\xcommandcard7442.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\device\\card\\xcommandcard7230.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\device\\card\\xcommandcard7230.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\device\\card\\xcommand8338.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\device\\card\\xcommand8338.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\xpositiontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\xpositiontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\xsettinggrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\xsettinggrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\xsettinggrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\xsettinggrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\xstationstatebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\xstationstatebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\xstationstatebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\xstationstatebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\xaxiscontrolpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\xaxiscontrolpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\xpositiontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\xpositiontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\xdotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\xdotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\xdotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\xdotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\xcarddotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\xcarddotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\xcarddotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\xcarddotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\xditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\xditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\xditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\xditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\xcardditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\xcardditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\xcardditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\xcardditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\xaxisstatustable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\xaxisstatustable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\xaxisstatustable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\xaxisstatustable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\xaxiscontrolpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\xaxiscontrolpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\lscarddotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\lscarddotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\lscarddotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\lscarddotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\config\\xsettingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\config\\xsettingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\config\\xsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\config\\xsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\device\\xleisaiaxis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\device\\xleisaiaxis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\framework\\motion\\xwaitdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\framework\\motion\\xwaitdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\xtipdlg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\xtipdlg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\usercontrols\\xtimeouttip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\usercontrols\\xtimeouttip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\zerobase\\config\\xposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DBA6FE-E756-4BD8-919F-3B844E5D2996}|ZeroBase\\ZeroBase.csproj|solutionrelative:zerobase\\config\\xposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XTask.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Task\\XTask.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Task\\XTask.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Task\\XTask.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Task\\XTask.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAuwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:47:12.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "XAlarmReporter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Alarm\\XAlarmReporter.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Alarm\\XAlarmReporter.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Alarm\\XAlarmReporter.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Alarm\\XAlarmReporter.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwJUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:52:20.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "XController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\XController.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\XController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\XController.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\XController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:08:39.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XTaskEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Task\\XTaskEventHandler.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Task\\XTaskEventHandler.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Task\\XTaskEventHandler.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Task\\XTaskEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:11:12.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XTaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Task\\XTaskManager.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Task\\XTaskManager.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Task\\XTaskManager.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Task\\XTaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:08:30.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\XEventArgs.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\XEventArgs.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\XEventArgs.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\XEventArgs.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T01:04:18.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XEvent.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\XEvent.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\XEvent.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\XEvent.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\XEvent.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAiwFkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T02:36:06.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "XEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\XEventHandler.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\XEventHandler.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\XEventHandler.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\XEventHandler.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:38:32.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "XMove.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Motion\\XMove.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Motion\\XMove.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Motion\\XMove.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Motion\\XMove.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwEQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:11:02.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "XDi.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\XDi.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Device\\XDi.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\XDi.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Device\\XDi.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:19:38.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "XMachine.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Machine\\XMachine.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Machine\\XMachine.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Machine\\XMachine.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Machine\\XMachine.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAowI0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:35:53.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "XDo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\XDo.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Device\\XDo.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\XDo.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Device\\XDo.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowG0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:10:01.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "XDevice.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\XDevice.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Device\\XDevice.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\XDevice.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Device\\XDevice.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwDEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:35:59.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "XChanelValue.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\XChanelValue.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Device\\XChanelValue.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\XChanelValue.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Device\\XChanelValue.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwDMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:13:40.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "XCommandCard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\Card\\XCommandCard.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Device\\Card\\XCommandCard.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\Card\\XCommandCard.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Device\\Card\\XCommandCard.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwBIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:51:11.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "XAlarmEventServer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Alarm\\XAlarmEventServer.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Alarm\\XAlarmEventServer.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Alarm\\XAlarmEventServer.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Alarm\\XAlarmEventServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:52:13.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "XAlarmEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Alarm\\XAlarmEventArgs.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Alarm\\XAlarmEventArgs.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Alarm\\XAlarmEventArgs.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Alarm\\XAlarmEventArgs.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:35:25.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "XSetDo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Motion\\XSetDo.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Motion\\XSetDo.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Motion\\XSetDo.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Motion\\XSetDo.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAcwJgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:54:04.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "XCtrlEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Motion\\XCtrlEventHandler.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Motion\\XCtrlEventHandler.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Motion\\XCtrlEventHandler.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Motion\\XCtrlEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:38:22.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "XAlarmEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Alarm\\XAlarmEventHandler.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Alarm\\XAlarmEventHandler.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Alarm\\XAlarmEventHandler.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Alarm\\XAlarmEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:52:05.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "XTaskStepBar.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XTaskStepBar.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\XTaskStepBar.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XTaskStepBar.cs",
+              "RelativeToolTip": "ZeroBase\\UserControls\\XTaskStepBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:42:02.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "XTaskStepBar.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XTaskStepBar.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\XTaskStepBar.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XTaskStepBar.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ZeroBase\\UserControls\\XTaskStepBar.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:13:18.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "XEventServerBase.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\XEventServerBase.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\XEventServerBase.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\XEventServerBase.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\XEventServerBase.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAiwGsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:59:32.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "XEventServer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\XEventServer.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\XEventServer.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\XEventServer.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\XEventServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:27:49.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "XCard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\Card\\XCard.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Device\\Card\\XCard.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\Card\\XCard.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Device\\Card\\XCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:58:46.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAxis.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\IAxis.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Device\\IAxis.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\IAxis.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Device\\IAxis.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvzIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:03:28.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "XXml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Formatter\\XXml.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Formatter\\XXml.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Formatter\\XXml.cs",
+              "RelativeToolTip": "ZeroBase\\Formatter\\XXml.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAiwLkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:40:47.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "XConvert.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Formatter\\XConvert.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Formatter\\XConvert.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Formatter\\XConvert.cs",
+              "RelativeToolTip": "ZeroBase\\Formatter\\XConvert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:39:45.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginCtr.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Config\\LoginCtr.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Config\\LoginCtr.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Config\\LoginCtr.cs",
+              "RelativeToolTip": "ZeroBase\\Config\\LoginCtr.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAuwHQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:35:42.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "APS168.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\ADLINK\\APS168.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\ADLINK\\APS168.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\ADLINK\\APS168.cs",
+              "RelativeToolTip": "ZeroBase\\ADLINK\\APS168.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAIwLAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:58:45.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "XCommandACS.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\Card\\XCommandACS.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Device\\Card\\XCommandACS.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\Card\\XCommandACS.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Device\\Card\\XCommandACS.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAmwEcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:22:32.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "XADLINKAxis.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\XADLINKAxis.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Device\\XADLINKAxis.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\XADLINKAxis.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Device\\XADLINKAxis.cs",
+              "ViewState": "AgIAADoBAAAAAAAAAAAxwE4BAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:43:13.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "XACSAxis.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\XACSAxis.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Device\\XACSAxis.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\XACSAxis.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Device\\XACSAxis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQBAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:28:39.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "XACS_Define.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\XACS_Define.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Device\\XACS_Define.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\XACS_Define.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Device\\XACS_Define.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:28:28.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "XPositionMap.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Config\\XPositionMap.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Config\\XPositionMap.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Config\\XPositionMap.cs",
+              "RelativeToolTip": "ZeroBase\\Config\\XPositionMap.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAQwFMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T01:07:46.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "XCommandCardLeisai.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\Card\\XCommandCardLeisai.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Device\\Card\\XCommandCardLeisai.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\Card\\XCommandCardLeisai.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Device\\Card\\XCommandCardLeisai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:24:14.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "XPositionManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Config\\XPositionManager.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Config\\XPositionManager.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Config\\XPositionManager.cs",
+              "RelativeToolTip": "ZeroBase\\Config\\XPositionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:00:34.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "XLogger.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Alarm\\Logger\\XLogger.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Alarm\\Logger\\XLogger.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Alarm\\Logger\\XLogger.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Alarm\\Logger\\XLogger.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwDIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:38:42.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "XStation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Station\\XStation.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Station\\XStation.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Station\\XStation.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Station\\XStation.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAA3wBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:14:15.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "XStationManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Station\\XStationManager.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Station\\XStationManager.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Station\\XStationManager.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Station\\XStationManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:49:05.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "XCommandCard7442.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\Card\\XCommandCard7442.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Device\\Card\\XCommandCard7442.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\Card\\XCommandCard7442.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Device\\Card\\XCommandCard7442.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:36:08.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "XCommandCard7230.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\Card\\XCommandCard7230.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Device\\Card\\XCommandCard7230.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\Card\\XCommandCard7230.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Device\\Card\\XCommandCard7230.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:35:15.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "XSettingGrid.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XSettingGrid.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\XSettingGrid.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XSettingGrid.cs",
+              "RelativeToolTip": "ZeroBase\\UserControls\\XSettingGrid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:13:51.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "XStationStateBar.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XStationStateBar.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\XStationStateBar.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XStationStateBar.cs",
+              "RelativeToolTip": "ZeroBase\\UserControls\\XStationStateBar.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:13:28.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "XSettingGrid.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XSettingGrid.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\XSettingGrid.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XSettingGrid.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ZeroBase\\UserControls\\XSettingGrid.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:13:24.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "XStationStateBar.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XStationStateBar.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\XStationStateBar.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XStationStateBar.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ZeroBase\\UserControls\\XStationStateBar.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:13:22.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "XPositionTable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XPositionTable.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\XPositionTable.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XPositionTable.cs",
+              "RelativeToolTip": "ZeroBase\\UserControls\\XPositionTable.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAgwJMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:06:38.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "XDoTable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XDoTable.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\XDoTable.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XDoTable.cs",
+              "RelativeToolTip": "ZeroBase\\UserControls\\XDoTable.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:06:23.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "XDiTable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XDiTable.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\XDiTable.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XDiTable.cs",
+              "RelativeToolTip": "ZeroBase\\UserControls\\XDiTable.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAYwFQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:02:27.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "XCardDoTable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XCardDoTable.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\XCardDoTable.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XCardDoTable.cs",
+              "RelativeToolTip": "ZeroBase\\UserControls\\XCardDoTable.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAArwMQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:00:41.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "XCardDoTable.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XCardDoTable.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\XCardDoTable.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XCardDoTable.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ZeroBase\\UserControls\\XCardDoTable.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:55:50.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "XCardDiTable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XCardDiTable.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\XCardDiTable.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XCardDiTable.cs",
+              "RelativeToolTip": "ZeroBase\\UserControls\\XCardDiTable.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAlwJAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:55:09.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "XCardDiTable.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XCardDiTable.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\XCardDiTable.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XCardDiTable.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ZeroBase\\UserControls\\XCardDiTable.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:55:08.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "XAxisStatusTable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XAxisStatusTable.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\XAxisStatusTable.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XAxisStatusTable.cs",
+              "RelativeToolTip": "ZeroBase\\UserControls\\XAxisStatusTable.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAUwI0AAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:46:19.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "XAxisStatusTable.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XAxisStatusTable.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\XAxisStatusTable.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XAxisStatusTable.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ZeroBase\\UserControls\\XAxisStatusTable.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:46:17.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "LsCardDoTable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\LsCardDoTable.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\LsCardDoTable.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\LsCardDoTable.cs",
+              "RelativeToolTip": "ZeroBase\\UserControls\\LsCardDoTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:52:43.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "LsCardDoTable.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\LsCardDoTable.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\LsCardDoTable.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\LsCardDoTable.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ZeroBase\\UserControls\\LsCardDoTable.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:52:42.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "XSettingManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Config\\XSettingManager.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Config\\XSettingManager.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Config\\XSettingManager.cs",
+              "RelativeToolTip": "ZeroBase\\Config\\XSettingManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:36:58.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "XSetting.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Config\\XSetting.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Config\\XSetting.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Config\\XSetting.cs",
+              "RelativeToolTip": "ZeroBase\\Config\\XSetting.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:33:38.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "XAxisControlPanel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XAxisControlPanel.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\XAxisControlPanel.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XAxisControlPanel.cs",
+              "RelativeToolTip": "ZeroBase\\UserControls\\XAxisControlPanel.cs",
+              "ViewState": "AgIAAHABAAAAAAAAAAAuwEsBAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:24:30.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "XAxisControlPanel.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XAxisControlPanel.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\XAxisControlPanel.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XAxisControlPanel.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ZeroBase\\UserControls\\XAxisControlPanel.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:24:21.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "XleisaiAxis.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\XleisaiAxis.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Device\\XleisaiAxis.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\XleisaiAxis.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Device\\XleisaiAxis.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAkwHAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:27:37.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "XCommand8338.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\Card\\XCommand8338.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Device\\Card\\XCommand8338.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Device\\Card\\XCommand8338.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Device\\Card\\XCommand8338.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:22:39.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "XWaitDi.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Motion\\XWaitDi.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Framework\\Motion\\XWaitDi.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Framework\\Motion\\XWaitDi.cs",
+              "RelativeToolTip": "ZeroBase\\Framework\\Motion\\XWaitDi.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAawHsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:18:24.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "XTipDlg.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XTipDlg.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\XTipDlg.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XTipDlg.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ZeroBase\\UserControls\\XTipDlg.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:18:00.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "XTimeoutTip.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XTimeoutTip.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\XTimeoutTip.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XTimeoutTip.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ZeroBase\\UserControls\\XTimeoutTip.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:17:57.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "XPositionTable.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XPositionTable.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\XPositionTable.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XPositionTable.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ZeroBase\\UserControls\\XPositionTable.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:36:41.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "XDoTable.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XDoTable.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\XDoTable.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XDoTable.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ZeroBase\\UserControls\\XDoTable.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:36:38.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "XDiTable.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XDiTable.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\UserControls\\XDiTable.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\UserControls\\XDiTable.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ZeroBase\\UserControls\\XDiTable.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:36:36.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "XPosition.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Config\\XPosition.cs",
+              "RelativeDocumentMoniker": "ZeroBase\\Config\\XPosition.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ZeroBase\\ZeroBase\\ZeroBase\\Config\\XPosition.cs",
+              "RelativeToolTip": "ZeroBase\\Config\\XPosition.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:35:46.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

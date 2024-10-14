@@ -1,0 +1,17 @@
+F:\XXT\ZeroBase\ZeroBase\obj\Release\ZeroBase.csprojResolveAssemblyReference.cache
+F:\XXT\ZeroBase\ZeroBase\obj\Release\ZeroBase.Properties.Resources.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Release\ZeroBase.LsCardDiTable.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Release\ZeroBase.LsCardDoTable.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Release\ZeroBase.XAxisControlPanel.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Release\ZeroBase.XAxisStatusTable.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Release\ZeroBase.XCardDoTable.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Release\ZeroBase.XDiTable.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Release\ZeroBase.XDoTable.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Release\ZeroBase.XTaskStepBar.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Release\ZeroBase.XStationStateBar.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Release\ZeroBase.XPositionTable.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Release\ZeroBase.XTimeoutTip.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Release\ZeroBase.XTipDlg.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Release\ZeroBase.XSettingGrid.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Release\ZeroBase.XCardDiTable.resources
+F:\XXT\ZeroBase\ZeroBase\obj\Release\ZeroBase.csproj.GenerateResource.Cache
